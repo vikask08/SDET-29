@@ -1,5 +1,10 @@
 package com.actime.pom;
 
-public class UserListPage {
+import org.testng.annotations.Test;
 
+public class UserListPage {
+	@Test
+	public void changes() {
+		System.out.println("hi");
+	}
 }
