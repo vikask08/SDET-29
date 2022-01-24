@@ -6,5 +6,6 @@ public class UserListPage {
 	@Test
 	public void changes() {
 		System.out.println("hi");
+		System.out.println("conflict");
 	}
 }
