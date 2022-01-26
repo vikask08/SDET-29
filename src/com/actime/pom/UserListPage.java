@@ -7,5 +7,6 @@ public class UserListPage {
 	public void changes() {
 		System.out.println("hi");
 		System.out.println("conflict");
+		System.out.println("branch");
 	}
 }
